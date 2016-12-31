@@ -1,0 +1,2 @@
+# js-minify
+Minify JacaScript
